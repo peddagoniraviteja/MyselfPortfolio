@@ -1,0 +1,233 @@
+.main-head {
+    font-family: Serif;
+    font-size: 32px;
+}
+
+#nav-items {
+    color: white;
+    font-size: 20px;
+
+}
+
+.home-bg {
+    background-color: #193017;
+    height: 100vh;
+    width: 100vw;
+
+}
+
+.home-Myname {
+    color: #ffffff;
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.home-Myname2 {
+    color: green;
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.logos {
+    color: white;
+    margin: 2px;
+}
+
+.download-btn {
+    background-color: green;
+    color: #ffffff;
+    border-radius: 10px;
+    font-family: "Roboto";
+    padding: 4px;
+    border-width: 0px;
+    font-size: 16px;
+
+}
+
+.mypic {
+    height: 180px;
+    width: 180px;
+    border-radius: 100px;
+}
+
+.bg-footer {
+    background-color: #1f6420;
+    height: 250px;
+    width: 100vw;
+
+}
+
+.footer-elements {
+    color: #ffffff;
+    margin: 5px;
+    font-size: 16px;
+}
+
+.bg-aboutme {
+    background-color: #193017;
+    height: 100%;
+    width: 100vw;
+}
+
+.about-head {
+    color: #ffffff;
+    font-family: Roboto;
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.me-ele {
+    color: green;
+    font-family: Roboto;
+    font-size: 26px;
+    font-weight: bold;
+
+}
+
+.about-des {
+    color: #ffffff;
+    font-family: roboto;
+}
+
+.service-bg {
+    background-color: #193017;
+    height: 100%;
+    width: 100vw;
+
+}
+
+.service-ele {
+    color: green;
+    font-family: Roboto;
+    font-size: 26px;
+    font-weight: bold;
+
+}
+
+.service-head {
+    color: #ffffff;
+    font-family: Roboto;
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.Service1 {
+    background-color: #00ff88;
+    border-radius: 10px;
+
+}
+
+.service-logo {
+    height: 60px;
+    width: 60px;
+    color: white;
+}
+
+.Service-name {
+    color: black;
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.project-bg {
+    background-color: #193017;
+    height: 100%;
+    width: 100vw;
+
+}
+
+.project-ele {
+    color: green;
+    font-family: Roboto;
+    font-size: 26px;
+    font-weight: bold;
+
+}
+
+.project-head {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.certificate-bg {
+    background-color: #193017;
+    height: 100%;
+    width: 100vw;
+
+}
+
+.certificate-ele {
+    color: green;
+    font-family: Roboto;
+    font-size: 26px;
+    font-weight: bold;
+
+}
+
+.certificate-head {
+    color: #ffffff;
+    font-family: Roboto;
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.Certificate-1 {
+    height: 120px;
+    width: 150px;
+}
+
+.Certificate-oasis {
+    height: 220px;
+    width: 140px;
+}
+
+.contact-bg {
+    background-color: #193017;
+    height: 100%;
+    width: 100vw;
+
+}
+
+.contact-ele {
+    color: green;
+    font-family: Roboto;
+    font-size: 26px;
+    font-weight: bold;
+
+}
+
+.contact-head {
+    color: #ffffff;
+    font-family: Roboto;
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.contact-labels {
+    background-color: #193017;
+    border-color: #ffffff;
+    font-family: Roboto;
+    font-size: 24px;
+    border-radius: 10px;
+    border-width: 2px;
+    padding: 10px;
+}
+
+.send-btn {
+    width: 120px;
+    background-color: green;
+    color: white;
+    border-width: 0px;
+    font-family: "Roboto";
+}
+
+.project-logo {
+    height: 160px;
+    width: 160px;
+    padding: 20px;
+}
